@@ -1,0 +1,1 @@
+{"version":3,"file":"tag.js","sourceRoot":"","sources":["../../../../src/utils/git/tag.ts"],"names":[],"mappings":";;AAAA,qCAA8B;AAE9B,SAAgB,GAAG,CAAC,IAAY,EAAE,WAAW,GAAG,EAAE;;IAChD,IAAI,OAAA,WAAW,0CAAE,MAAM,IAAG,CAAC,EAAE;QAC3B,cAAI,CAAC,cAAc,IAAI,QAAQ,WAAW,GAAG,CAAC,CAAA;KAC/C;SAAM;QACL,cAAI,CAAC,cAAc,IAAI,EAAE,CAAC,CAAA;KAC3B;AACH,CAAC;AAND,kBAMC"}

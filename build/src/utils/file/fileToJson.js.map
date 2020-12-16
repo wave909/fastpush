@@ -1,0 +1,1 @@
+{"version":3,"file":"fileToJson.js","sourceRoot":"","sources":["../../../../src/utils/file/fileToJson.ts"],"names":[],"mappings":";;;;;;;;;;;AAAA,sCAAsC;AAEtC;;GAEG;AACH,SAAsB,SAAS,CAAU,IAAY;;QACnD,MAAM,GAAG,GAAG,MAAM,OAAO,CAAC,SAAS,CAAC,IAAI,CAAC,CAAA;QACzC,OAAO,IAAI,CAAC,KAAK,CAAC,GAAG,CAAC,CAAA;IACxB,CAAC;CAAA;AAHD,8BAGC"}

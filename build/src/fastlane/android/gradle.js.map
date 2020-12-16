@@ -1,0 +1,1 @@
+{"version":3,"file":"gradle.js","sourceRoot":"","sources":["../../../../src/fastlane/android/gradle.ts"],"names":[],"mappings":";;AAAA,wCAA6C;AAmB7C,SAAgB,MAAM,CAAC,IAAmB,EAAE,IAAiB;IAC3D,OAAO;QACL,IAAI,EAAE,SAAS;QACf,IAAI,EAAE,QAAQ;QACd,IAAI,EAAE;YACJ,EAAE,IAAI,EAAE,MAAM,EAAE,KAAK,EAAE,IAAI,EAAE;YAC7B,GAAG,yBAAe,CAAC,IAAI,CAAC;SACzB;KACF,CAAC;AACJ,CAAC;AATD,wBASC"}

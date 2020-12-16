@@ -1,0 +1,1 @@
+{"version":3,"file":"question.js","sourceRoot":"","sources":["../../../src/ui/question.ts"],"names":[],"mappings":";;;;;;;;;;;AAAA,qCAAqC;AAErC,SAAsB,QAAQ,CAAC,KAAa;;QAC1C,OAAO,QAAQ,CAAC,MAAM,CAAC;YACrB;gBACE,IAAI,EAAE,SAAS;gBACf,IAAI,EAAE,QAAQ;gBACd,OAAO,EAAE,KAAK;gBACd,OAAO,EAAE,KAAK;aACf;SACF,CAAC,CAAA;IACJ,CAAC;CAAA;AATD,4BASC"}
